@@ -1,2 +1,2 @@
 # jhipster
-My first jHipster project
+My first jHipster project :)
